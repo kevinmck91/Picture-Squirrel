@@ -9,13 +9,13 @@
 
 <div class="container">
 
-<header>
+<header> 
    <h1>Home Page of Picture Squirrel</h1>
 </header>
 
 <div>
 
-Content goes here
+Content goes in this area
 
 </div>
   
