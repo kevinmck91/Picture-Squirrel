@@ -10,7 +10,7 @@
 <div class="container">
 
 <header> 
-   <h1>Home Page of Picture Squirrel</h1>
+   <h1>${param.title}</h1>
 </header>
 
 <div>
